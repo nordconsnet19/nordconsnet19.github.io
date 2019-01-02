@@ -1,6 +1,6 @@
 ## The Workshop
 
-The Nordic Network for researchers and practitioners of Constraint programming (NordConsNet) kindly invites you to participate in the yearly NordConsNet Workshop. 
+The Nordic Network for researchers and practitioners of Constraint programming ([NordConsNet](http://www.it.uu.se/research/NordConsNet)) kindly invites you to participate in the yearly NordConsNet Workshop. 
 The purpose of the workshop is to learn about ongoing research in Constraint Programming and optimisation, existing projects and products, and further development of the network. 
 NordConsNet Workshop 2019 is the 18th edition of this annual event.
 
