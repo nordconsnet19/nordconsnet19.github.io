@@ -1,56 +1,34 @@
 ## The Workshop
 
+The Nordic Network for researchers and practitioners of Constraint programming (NordConsNet) kindly invites you to participate in the yearly NordConsNet Workshop. 
+The purpose of the workshop is to learn about ongoing research in Constraint Programming and optimisation, existing projects and products, and further development of the network. 
+NordConsNet Workshop 2019 is the 18th edition of this annual event.
+
+## Date
+
+The workshop will be held during one day in May or June 2019.
+The exact date will be announced soon.
 
 ## Location
 
+The workshop will take place at _[Simula Research Laboratory](https://www.simula.no/), Martin Linges vei 25, 1364 Fornebu, Norway_. 
+Further details will be provided before the workshop.
 
 ## Registration
 
+To be announced
 
 ## Organisation
 
+The NordConsNet Workshop 2019 is chaired by [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Helge Spieker](https://www.simula.no/people/helge) (both Certus SFI & Simula Research Laboratory).
+
+## Submit a Presentation Proposal
+
+We hope for your participation, and highly encourage you to submit a proposal for a presentation of your ongoing work, recent results, or of a relevant discussion topic. 
+There are no paper submissions, reviews, or proceedings, hence recent conference/journal papers may also be presented. 
+Please contact [Helge Spieker](https://www.simula.no/people/helge) if you would like to present.
 
 ## Programme
 
+To be announced
 
-## Submit a Presentation Proposal (not yet open)
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nordconsnet19/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nordconsnet19/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
