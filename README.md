@@ -6,8 +6,7 @@ NordConsNet Workshop 2019 is the 18th edition of this annual event.
 
 ## Date
 
-The workshop will be held during one day in May or June 2019.
-The exact date will be announced soon.
+The workshop will be held on Tuesday, 21.05.2019.
 
 ## Location
 
@@ -16,11 +15,16 @@ Further details will be provided before the workshop.
 
 ## Registration
 
-To be announced
+To register please send an email to [Helge Spieker](https://www.simula.no/people/helge).
+Registration including lunch and catering must be send prior to May, 3. 
+If you register after that date, you are still very welcome to attend any talks during the day, just be mindful not to enter during a talk and don't expect catering.
+There are no registration fees for the workshop.
+
+Please forward this information to anyone who might be interested in this workshop but is not yet on the NordConsNet mailing list: they can subscribe to it by applying to [Justin Pearson](http://www.it.uu.se/katalog/search.php?name=Justin%20Pearson&exact=yes).
 
 ## Organisation
 
-The NordConsNet Workshop 2019 is chaired by [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Helge Spieker](https://www.simula.no/people/helge) (both Certus SFI & Simula Research Laboratory).
+The NordConsNet Workshop 2019 is chaired by [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Helge Spieker](https://www.simula.no/people/helge) (both [Certus SFI](http://certus-sfi.no/) & Simula Research Laboratory).
 
 ## Submit a Presentation Proposal
 
