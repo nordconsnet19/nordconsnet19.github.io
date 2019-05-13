@@ -22,7 +22,7 @@ Simula's main entrance is on the 3rd floor, turning right up the stairs from the
 | 10:00 - 10:10 | Helge Spieker     | Welcome                                                   | 
 | 10:10 - 10:30 | Arnaud Gotlieb    | Simula Research Laboratory: Constraint Programming for Software Engineering                                       | 
 | 10:30 - 11:00 | Gustav Björdal    | Generating Compound Moves in Local Search by Hybridisation with Systematic Search |
-| 11:00 - 11:30 |                   | Presentation (T.B.A.)                                     | 
+| 11:00 - 11:30 | Jan Elffers       | On-the-fly cardinality detection                          | 
 | 11:30 - 12:00 |                   | Presentation (T.B.A.)                                     |
 | 12:00 - 13:30 |                   | Lunch                                                     | 
 | 13:30 - 14:00 | Matti Järvisalo   | CP at the University of Helsinki                          | 
@@ -56,7 +56,12 @@ Towards overcoming such inefficiency, we propose compound-move generation, an ex
 
 In this presentation I will give a motivating example for this work and an overview of our approach.
 
-### T.B.A.
+### On-the-fly cardinality detection
+**Jan Elffers (KTH)**
+
+We improve performance of pseudo-Boolean SAT solvers by recovering cardinality constraints during proof search.
+During unit propagation, we derive additional short clauses, which are then used as building blocks for constructing cardinality constraints during conflict analysis.
+Our experiments comparing this approach to the previous work [Biere et al., SAT 2014] indicate that our new algorithm performs significantly better.
 
 ### T.B.A.
 
