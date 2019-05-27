@@ -16,6 +16,8 @@ Simula's main entrance is on the 3rd floor, turning right up the stairs from the
 
 ## Program
 
+The presentation abstracts are below on this page.
+
 | Time          | Presenter         | Title                                                     | Slides |
 | ------------- | ----------------- | -----                                                     | ------ |
 | 09:30 - 10:00 |                   | Morning Coffee                                            | 
