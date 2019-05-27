@@ -16,24 +16,24 @@ Simula's main entrance is on the 3rd floor, turning right up the stairs from the
 
 ## Program
 
-| Time          | Presenter         | Title                                                     |
-| ------------- | ----------------- | -----                                                     |
+| Time          | Presenter         | Title                                                     | Slides |
+| ------------- | ----------------- | -----                                                     | ------ |
 | 09:30 - 10:00 |                   | Morning Coffee                                            | 
 | 10:00 - 10:10 | Helge Spieker     | Welcome                                                   | 
 | 10:10 - 10:30 | Arnaud Gotlieb    | Simula Research Laboratory: Constraint Programming for Software Engineering                                       | 
-| 10:30 - 11:00 | Gustav Björdal    | Generating Compound Moves in Local Search by Hybridisation with Systematic Search |
-| 11:00 - 11:30 | Jan Elffers       | On-the-fly cardinality detection                          | 
-| 11:30 - 12:00 | Stephan Gocht     | On Division Versus Saturation in Pseudo-Boolean Solving   |
+| 10:30 - 11:00 | Gustav Björdal    | Generating Compound Moves in Local Search by Hybridisation with Systematic Search | [PDF](slides/Bjordal-CompoundMovesForLocalSearch.pdf)
+| 11:00 - 11:30 | Jan Elffers       | On-the-fly cardinality detection |                         | 
+| 11:30 - 12:00 | Stephan Gocht     | On Division Versus Saturation in Pseudo-Boolean Solving   |  |
 | 12:00 - 13:30 |                   | Lunch                                                     | 
-| 13:30 - 14:00 | Matti Järvisalo   | CP at the University of Helsinki                          | 
-| 14:00 - 14:30 | Nadjib Lazaar     | Constraint Acquisition                                    | 
-| 14:30 - 15:00 | Sabino Roselli    | On SMT Solvers and Job Shop Problems                      | 
-| 15:00 - 15:30 |                   | Coffee Break                                              | 
-| 15:30 - 16:00 | Mathieu Collet    | Stress Testing of Single-Arm Robots Through Constraint-Based Generation of Continuous Trajectories                                                   | 
-| 16:00 - 16:30 | Jo Devriendt      | Leveraging LP solving for PB solving                      | 
-| 16:30 - 17:00 | Jakob Nordström   | Subgraph Isomorphism Meets Cutting Planes                 | 
-| 17:00 - 17:10 |                   | Closing                                                   |
-| 18:00         |                   | Dinner at Scandic Fornebu                                 | 
+| 13:30 - 14:00 | Matti Järvisalo   | CP at the University of Helsinki                          | |
+| 14:00 - 14:30 | Nadjib Lazaar     | Constraint Acquisition                                    | [PDF](slides/Lazaar-ConstraintAcquisition.pdf) |
+| 14:30 - 15:00 | Sabino Roselli    | On SMT Solvers and Job Shop Problems                      | [PDF](slides/Roselli-SmtAndJobshop.pdf) |
+| 15:00 - 15:30 |                   | Coffee Break       |                                      | 
+| 15:30 - 16:00 | Mathieu Collet    | Stress Testing of Single-Arm Robots Through Constraint-Based Generation of Continuous Trajectories                       |                            | 
+| 16:00 - 16:30 | Jo Devriendt      | Leveraging LP solving for PB solving   | [PDF](slides/Devriendt-LP_for_PB.pdf)            | 
+| 16:30 - 17:00 | Jakob Nordström   | Subgraph Isomorphism Meets Cutting Planes | [PDF](slides/Nordstrom-SubgraphIsomorphismMeetsCuttingPlanes.pdf) | 
+| 17:00 - 17:10 |                   | Closing      |                                             |
+| 18:00         |                   | Dinner at Scandic Fornebu                                 | |
 
 
 ## Abstracts
