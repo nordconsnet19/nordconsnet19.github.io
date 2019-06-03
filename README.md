@@ -25,7 +25,7 @@ The presentation abstracts are below on this page.
 | 10:10 - 10:30 | Arnaud Gotlieb    | Simula Research Laboratory: Constraint Programming for Software Engineering                                       | 
 | 10:30 - 11:00 | Gustav Björdal    | Generating Compound Moves in Local Search by Hybridisation with Systematic Search | [PDF](slides/Bjordal-CompoundMovesForLocalSearch.pdf)
 | 11:00 - 11:30 | Jan Elffers       | On-the-fly cardinality detection |                         | 
-| 11:30 - 12:00 | Stephan Gocht     | On Division Versus Saturation in Pseudo-Boolean Solving   |  |
+| 11:30 - 12:00 | Stephan Gocht     | On Division Versus Saturation in Pseudo-Boolean Solving   | [PDF](slides/Gocht-OnDivisionVersusSaturationInPseudoBooleanSolving.pdf) |
 | 12:00 - 13:30 |                   | Lunch                                                     | 
 | 13:30 - 14:00 | Matti Järvisalo   | CP at the University of Helsinki                          | |
 | 14:00 - 14:30 | Nadjib Lazaar     | Constraint Acquisition                                    | [PDF](slides/Lazaar-ConstraintAcquisition.pdf) |
